@@ -2,7 +2,7 @@
 Transmission block list
 
 # Usage
-1. You can either copy https://github.com/Naunter/BT_BlockLists/raw/master/bt_blocklists.gz  **OR**  https://github.com/Naunter/BT_BlockLists/releases/download/v.1/bt_blocklists.gz
+1. copy this link https://github.com/Seres67/BT_BlockLists/raw/master/bt_blocklists.gz
 
 2. Depending on your version, paste the link to `Transmission > Settings > Peers > Blocklist`   
    **OR**  
